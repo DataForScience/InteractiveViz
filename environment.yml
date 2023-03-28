@@ -2,7 +2,6 @@ dependencies:
   - bokeh==3.1.0
   - pandas==1.5.3
   - plotly==5.13.1
-  - basemap==1.2.1
   - matplotlib==3.3.2
   - watermark==2.1.0
   - networkx==2.5
