@@ -1,11 +1,11 @@
 dependencies:
   - bokeh==3.2.1
-  - ipython==8.10.0
-  - ipywidgets==7.6.5
-  - matplotlib==3.7.0
-  - networkx==2.8.4
+  - ipython==8.12.3
+  - ipywidgets==8.0.4
+  - matplotlib==3.7.2
+  - networkx==3.1
   - numpy==1.23.5
-  - pandas==1.5.3
+  - pandas==2.0.3
   - plotly==5.9.0
-  - tqdm==4.64.1
-  - watermark==2.4.2
+  - tqdm==4.65.0
+  - watermark==2.4.3
