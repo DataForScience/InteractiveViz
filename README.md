@@ -4,7 +4,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/DataForScience/InteractiveViz)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DataForScience/InteractiveViz)
 
-[![Data For Science](https://img.shields.io/badge/Graphs_For_Science-Subscribe-blue)](https://data4sci.substack.com/)
+[![Data For Science](https://img.shields.io/badge/Data_For_Science-Subscribe-blue)](https://data4sci.substack.com/)
 [![Data Science Briefing](https://img.shields.io/badge/Data_Science_Briefing-Subscribe-blue)](https://data4sci.com/newsletter)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/InteractiveViz/master)
